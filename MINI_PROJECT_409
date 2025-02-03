@@ -1,4 +1,4 @@
-CODE:
+
 
 #include <stdio.h>
 #include <string.h>
@@ -57,30 +57,4 @@ int main() {
     return 0;
 }
 
-OUTPUT:
 
-Student Information System
-1. Add Student
-2. Display Student
-3. Exit
-Enter your choice: 1
-Enter Roll Number: 22BFA05409
-Enter Name: Enter Marks: 476
-
-Student Information System
-1. Add Student
-2. Display Student
-3. Exit
-Enter your choice: 2
-
-Student Information:
-Roll Number: 22
-Name: FA05409
-Marks: 476.00
-
-Student Information System
-1. Add Student
-2. Display Student
-3. Exit
-Enter your choice: 3
-Exiting...
