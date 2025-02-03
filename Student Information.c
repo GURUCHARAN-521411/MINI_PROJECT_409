@@ -1,9 +1,5 @@
 /*1. Student Information System (using Structures)
 
-Explanation:
-Structure: A Student structure is used to store roll number, name, and marks.
-Functions: addStudent is used to input student details, and displayStudent displays them.
-Menu: A simple menu allows the user to add and display student information.
 
 
 SOURCE CODE:  */
@@ -92,6 +88,15 @@ Student Information System
 2. Display Student
 3. Exit
 Enter your choice: 3
-Exiting... */
+Exiting... 
+
+Explanation:
+Structure: A Student structure is used to store roll number, name, and marks.
+Functions: addStudent is used to input student details, and displayStudent displays them.
+Menu: A simple menu allows the user to add and display student information.*/
+
+
+
+
 
 
