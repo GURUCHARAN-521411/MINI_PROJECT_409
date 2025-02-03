@@ -64,9 +64,9 @@ int main() {
     return 0;
 }
 
-OUTPUT:
 
-OUTPUT:
+
+/*OUTPUT:
 
 Student Information System
 1. Add Student
@@ -92,6 +92,6 @@ Student Information System
 2. Display Student
 3. Exit
 Enter your choice: 3
-Exiting...
+Exiting... */
 
 
