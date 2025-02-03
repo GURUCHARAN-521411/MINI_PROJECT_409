@@ -1,4 +1,4 @@
-1. Student Information System (using Structures)
+/*1. Student Information System (using Structures)
 
 Explanation:
 Structure: A Student structure is used to store roll number, name, and marks.
@@ -6,7 +6,7 @@ Functions: addStudent is used to input student details, and displayStudent displ
 Menu: A simple menu allows the user to add and display student information.
 
 
-SOURCE CODE:
+SOURCE CODE:  */
 #include <stdio.h>
 #include <string.h>
 
